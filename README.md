@@ -1,4 +1,4 @@
-## 🚘 GORide Driver Strategy Optimization – Babson Case Competition
+## 🚘 GORide Driver Strategy Optimization
 
 As part of the **Babson Graduate Consulting Club Case Competition**, our team developed a data-driven strategy to help *GORide*, a fictional ride-sharing company, optimize driver engagement and profitability.
 
